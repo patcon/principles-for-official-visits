@@ -2,6 +2,10 @@
 
 Sample principles and protocols for public servants working transparently.
 
+[Original version][orig-principles] created on behalf of Taiwanese
+Digital Minister Audrey Tang of [Public Digital Innovation Space
+(PDIS)][pdis].
+
 ## Translations
 
 - [English](PRINCIPLES.en.md)
@@ -19,3 +23,7 @@ To be determined.
 ## :copyright: License
 
 [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
+
+<!-- Links -->
+[orig-principles]: https://talk.pdis.nat.gov.tw/t/principles-for-handling-official-visits-to-digital-minister-audrey-tang/70
+[pdis]: https://pdis.nat.gov.tw/
